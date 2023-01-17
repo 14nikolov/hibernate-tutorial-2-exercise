@@ -20,7 +20,7 @@ public class DeleteTableEntries {
 
 		try {
 			// Retrieving Object/Row from Table by ID
-			Computer computer = session.get(Computer.class, 14);
+			Computer computer = session.get(Computer.class, 16);
 			// Deleting that Object/Row from Table 
 			// This will also deleted the User Table Object/Row
 			// that is linked to this ROW via FOREIGN KEY

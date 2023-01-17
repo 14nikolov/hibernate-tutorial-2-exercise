@@ -9,7 +9,7 @@ public class TestConnection {
 	public static void main(String[] args) {
 		
 		try {
-			String databaseUrl = "jdbc:mysql://localhost:3306/1to1";
+			String databaseUrl = "jdbc:mysql://localhost:3306/hibernate-tutorial-2-exercise";
 			String user = "hbstudent";
 			String password = "hbstudent";
 			Connection connection = DriverManager.getConnection
