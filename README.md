@@ -1,0 +1,1 @@
+# hibernate-tutorial-2-exercise
